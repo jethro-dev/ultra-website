@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is Huddle website. This website is made with ReactJS.
+This is Ultra website. This website is made with ReactJS. This website is fully responsive!
 
 ## Build with ⚙️
 
